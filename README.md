@@ -2,6 +2,12 @@
 
 EBNF grammar for [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
+## Archival Notice
+
+This parser is now part of the
+[`RubixDev/ebnf`](https://github.com/RubixDev/ebnf/tree/main/crates/tree-sitter-ebnf)
+again.
+
 ## Reference
 
 This parser implements the EBNF syntax as described by the
